@@ -5,6 +5,18 @@
 A new Flutter project.
 
 ## Getting Started
+- 启动代理服务器
+``` SHELL
+$ cd wan_android_flutter
+$ cd ./HTTP-Proxy
+$ npm start
+```
+
+- 启动Flutter web项目
+``` SHELL
+$ cd wan_android_flutter
+$ flutter run -d chrome
+```
 
 This project is a starting point for a Flutter application.
 
